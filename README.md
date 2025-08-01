@@ -11,9 +11,11 @@ O objetivo deste repositório é centralizar e divulgar iniciativas que utilizam
 Projetos focados no processamento e análise de dados epidemiológicos, demográficos e de saúde pública.
 
 * **[Instituto Todos pela Saúde (ITpS)](https://github.com/InstitutoTodosPelaSaude)**: Focado em vigilância em saúde, com projetos de análise de dados de arboviroses e vírus respiratórios.
+* **[Observatório de Saúde na Infância (Observa Infância)](https://github.com/fiocruz/observa-infancia)**: Projeto da Fiocruz e do Centro Arthur de Sá Earp Neto (Unifase) que monitora e divulga dados sobre a saúde de crianças no Brasil.
 * **[covid19br](https://github.com/wcota/covid19br)**: Um projeto de coleta e organização de dados da COVID-19 em nível municipal.
 * **[covid19br-vac (by Wesley Cota)](https://github.com/wcota/covid19br-vac)**: Repositório focado especificamente no processamento de dados de vacinação da COVID-19, extraídos do OpenDataSUS.
 * **[Shapefiles das Regionais de Saúde do SUS](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)**: Disponibiliza os mapas das 450 Regionais de Saúde do Brasil, essenciais para análises georreferenciadas.
+* **[Base dos Dados](https://github.com/basedosdados)**: Embora não seja exclusivo da saúde, é uma iniciativa crucial que mantém e limpa grandes conjuntos de dados públicos brasileiros, incluindo muitos do OpenDataSUS, facilitando a análise.
 
 ## Bioinformática e Pesquisa Genômica
 
@@ -30,6 +32,14 @@ Iniciativas relacionadas à pesquisa clínica, análise de prontuários e proces
 
 * **[LAVI-USP](https://github.com/LAVI-USP)**: Laboratório da USP com projetos na área de imagens médicas, como o uso de deep learning para restauração de imagens de tomossíntese mamária.
 * **[Blur Detection in Clinical Images (TIC-13)](https://github.com/TIC-13/blur_detection)**: Projeto de pesquisa para detecção de desfoque em imagens de lesões de câncer de pele, utilizando datasets de hospitais brasileiros.
+* **[fastai-med-br (by tarcisio-g-s)](https://github.com/tarcisio-g-s/fastai-med-br)**: Repositório com tutoriais e exemplos práticos de deep learning para imagens médicas em português, utilizando a biblioteca fastai.
+
+## Prontuários Eletrônicos e Gestão em Saúde
+
+Soluções de código aberto para gestão de informações de saúde e registros eletrônicos de pacientes.
+
+* **[GNU Health Brasil](https://github.com/gnuhealth-br)**: A comunidade brasileira do GNU Health, um sistema de gestão hospitalar e de informação em saúde livre e de código aberto.
+* **[PEC - Prontuário Eletrônico do Cidadão (Implementação de Referência)](https://github.com/portalsds/sigtap-postgresql)**: Embora não seja o código-fonte completo do PEC, este projeto oferece uma implementação do banco de dados SIGTAP em PostgreSQL, um componente essencial da estratégia e-SUS AB.
 
 ## Plataformas e Iniciativas Governamentais
 
@@ -38,6 +48,14 @@ Plataformas que disponibilizam dados e incentivam o desenvolvimento de soluçõe
 * **[Software Público Brasileiro](https://softwarepublico.gov.br/)**: Um portal para compartilhamento de softwares desenvolvidos com recursos públicos, incluindo soluções para a área da saúde.
 * **[Rede Nacional de Dados em Saúde (RNDS)](https://www.gov.br/saude/pt-br/assuntos/rnds)**: A plataforma de interoperabilidade de dados do Ministério da Saúde.
 * **[OpenDataSUS](https://opendatasus.saude.gov.br/)**: A principal fonte de conjuntos de dados de saúde pública no Brasil.
+* **[DATASUS](https://datasus.saude.gov.br/)**: O portal do Departamento de Informática do SUS, que além dos dados, oferece documentação técnica e sistemas como o TabNet para tabulação de dados.
+
+## Interoperabilidade e Padrões
+
+Projetos e grupos focados no desenvolvimento e na adoção de padrões para a troca de informações em saúde.
+
+* **[FHIR Brasil](https://github.com/FHIR-Brasil)**: Comunidade focada na localização e implementação do padrão HL7 FHIR no Brasil. Essencial para a interoperabilidade de sistemas de saúde.
+* **[openEHR Brasil](https://openehr.org.br/)**: Comunidade brasileira que promove o padrão openEHR, uma especificação aberta para prontuários eletrônicos de saúde.
 
 ## Comunidades e Grupos de Trabalho
 
@@ -45,6 +63,7 @@ Espaços para aprender, colaborar e se conectar com outros profissionais.
 
 * **[HL7 Brasil](https://hl7.org.br/)**: A afiliada brasileira da organização que desenvolve padrões para a troca de informações em saúde (como o FHIR).
 * **[Fiocruz Livre](https://github.com/FiocruzLivre)**: Organização no GitHub para abrigar projetos de código aberto que podem ser úteis para a Fundação Oswaldo Cruz.
+* **[ImpulsoGov](https://github.com/ImpulsoGov)**: Organização sem fins lucrativos que desenvolve soluções de tecnologia e ciência de dados para fortalecer a gestão do SUS, especialmente na atenção primária.
 
 ---
 
