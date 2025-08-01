@@ -1,5 +1,7 @@
 # Como Contribuir
 
+Ficamos felizes com o seu interesse em contribuir! Para manter o projeto organizado, por favor, siga estas diretrizes.
+
 ## Adicionando um Novo Projeto
 
 Para adicionar um novo projeto, plataforma ou comunidade, por favor, abra um [Pull Request](https://github.com/ivolzkm/saude-open-source-brasil/pulls) com as seguintes informações:
